@@ -16,4 +16,4 @@ Here's some videos on youtube for getting started with creting windows services 
 
 3- <a href="https://www.youtube.com/watch?v=cp2aFNtcZfk">How to Create a Setup Project to Deploy Windows Services</a>
 
-Please follow me on <a href="https://www.instagram.com/gameditors/">instagram</a>
+You can contact me on <a href="https://www.linkedin.com/in/mohammad-fathi/">LinkedIn</a> and <a href="https://www.instagram.com/sharepointer.ir/">instagram</a>
